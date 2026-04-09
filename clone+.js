@@ -253,3 +253,4 @@
 
   Scratch.extensions.register(new CloneMasterFull());
 })(Scratch);
+
